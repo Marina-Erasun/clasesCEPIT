@@ -1,0 +1,16 @@
+var palabras: strings [] = ['Arruga' , 'vaso'. 'pantalon', 'espatula', 'motocicleta'];
+function palabrasFuncion (palabra: string, comando: string, array: string[], actualizacion?:string){
+switch (accon){
+    case "insertar":
+        array.push (palabra);
+        console.log(array);
+        break;
+        case "eliminar":
+            var index = array.indexOf (palabra);
+            if(index){
+                array.splice(index,1);
+            }
+            console.log(array);
+            break;
+}
+}

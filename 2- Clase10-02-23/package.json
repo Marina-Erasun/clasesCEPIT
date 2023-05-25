@@ -1,0 +1,22 @@
+{
+  "name": "clase10-2-23",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Marina-Erasun/SegundoCuatrimestre.git"
+  },
+  "author": "Marina",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Marina-Erasun/SegundoCuatrimestre/issues"
+  },
+  "homepage": "https://github.com/Marina-Erasun/SegundoCuatrimestre#readme",
+  "dependencies": {
+    "@types/node": "^18.14.0"
+  }
+}
